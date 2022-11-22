@@ -1,1 +1,17 @@
-
+# 1. Consider any dataset from the links provided and perform the following functions.
+# 2. Link:
+# https://analyticsindiamag.com/10-datasets-for-data-cleaning-practice-for-beginners/
+# https://medium.com/@FranciscoHinojosaLuna/5-datasets-to-practice-data-cleaning-27378f422e1c
+# 3. Read the data from the file using Numpy.
+# 4. Display the statistics of the dataset.
+# 5. Display first few data from the file.
+# 6. Display last few data from the dataset.
+# 7. Find for the missing values within the dataset.
+# 8. Replace the missing values with any of the following process:
+# Remove the features if the values are in negligible count.
+# Replace the NaN values with mean values of the particular attribute.
+# 9. Transform the dataset by all the process mentioned below:
+# normalize with min and max procedure
+# normalize with Z-score process.
+# OR
+# Categorize the dataset using one-hot encoding process.
